@@ -1,0 +1,5 @@
+C:\ThreeGames\GameLibrary\bin\Debug\GameLibrary.dll
+C:\ThreeGames\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\ThreeGames\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\ThreeGames\GameLibrary\obj\Debug\GameLibrary.dll
+C:\ThreeGames\GameLibrary\obj\Debug\GameLibrary.pdb

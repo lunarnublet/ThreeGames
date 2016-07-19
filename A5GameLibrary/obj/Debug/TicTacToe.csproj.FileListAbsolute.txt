@@ -1,0 +1,11 @@
+C:\ThreeGames\A5GameLibrary\bin\Debug\TicTacToe.exe.config
+C:\ThreeGames\A5GameLibrary\bin\Debug\TicTacToe.exe
+C:\ThreeGames\A5GameLibrary\bin\Debug\TicTacToe.pdb
+C:\ThreeGames\A5GameLibrary\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\ThreeGames\A5GameLibrary\obj\Debug\TicTacToe.exe
+C:\ThreeGames\A5GameLibrary\obj\Debug\TicTacToe.pdb
+C:\ThreeGames\A5GameLibrary\bin\Debug\GameLibrary.dll
+C:\ThreeGames\A5GameLibrary\bin\Debug\GameLibrary.pdb
+C:\ThreeGames2\A5GameLibrary\bin\Debug\TicTacToe.exe.config
+C:\ThreeGames2\A5GameLibrary\obj\Debug\TicTacToe.exe
+C:\ThreeGames2\A5GameLibrary\obj\Debug\TicTacToe.pdb

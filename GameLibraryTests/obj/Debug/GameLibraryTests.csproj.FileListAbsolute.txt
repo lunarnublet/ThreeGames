@@ -1,0 +1,9 @@
+C:\ThreeGames\GameLibraryTests\bin\Debug\GameLibraryTests.dll
+C:\ThreeGames\GameLibraryTests\bin\Debug\GameLibraryTests.pdb
+C:\ThreeGames\GameLibraryTests\bin\Debug\GameLibrary.dll
+C:\ThreeGames\GameLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ThreeGames\GameLibraryTests\bin\Debug\GameLibrary.pdb
+C:\ThreeGames\GameLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\ThreeGames\GameLibraryTests\obj\Debug\GameLibraryTests.csprojResolveAssemblyReference.cache
+C:\ThreeGames\GameLibraryTests\obj\Debug\GameLibraryTests.dll
+C:\ThreeGames\GameLibraryTests\obj\Debug\GameLibraryTests.pdb

@@ -1,0 +1,11 @@
+C:\ThreeGames\TicTacTest\bin\Debug\TicTacTest.dll
+C:\ThreeGames\TicTacTest\bin\Debug\TicTacTest.pdb
+C:\ThreeGames\TicTacTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ThreeGames\TicTacTest\bin\Debug\TicTacToe.exe
+C:\ThreeGames\TicTacTest\bin\Debug\GameLibrary.dll
+C:\ThreeGames\TicTacTest\bin\Debug\TicTacToe.pdb
+C:\ThreeGames\TicTacTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\ThreeGames\TicTacTest\bin\Debug\GameLibrary.pdb
+C:\ThreeGames\TicTacTest\obj\Debug\TicTacTest.csprojResolveAssemblyReference.cache
+C:\ThreeGames\TicTacTest\obj\Debug\TicTacTest.dll
+C:\ThreeGames\TicTacTest\obj\Debug\TicTacTest.pdb
